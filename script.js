@@ -1,5 +1,5 @@
 document.getElementById('footerButton').addEventListener('click', function() {
-        alert('Didnt i say not to? 😂👈\n\n\n---Welcome to my page---');
+        alert('\n Hi there 😅!\n ^____^');
     });
 
 const profileImg = document.getElementsByClassName('profile-img')[0]
