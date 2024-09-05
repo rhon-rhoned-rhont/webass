@@ -10,5 +10,5 @@ profileImg.addEventListener('mouseenter',()=>{
 
 profileImg.addEventListener('mouseleave',()=>{
     document.body.style.background="hsl(96, 52%, 58%)";
-    profileImg.src = "dor.jpg";
+    profileImg.src = "me.jpg";
 })
